@@ -17,7 +17,7 @@ void more_numbers(void)
 			if (s > 9)
 				_putchar(s / 10 + '0');
 				_putchar(s % 10 + '0');
-				s++;
+			s++;
 																		}
 		c++;
 		_putchar('\n');
