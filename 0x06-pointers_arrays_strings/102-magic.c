@@ -1,5 +1,4 @@
 #include <stdio.h>
-/* description: prints a[2] = 98 */
 
 int main(void)
 {
